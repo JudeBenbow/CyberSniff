@@ -49,16 +49,3 @@ PowerShell
 streamlit run visualizer.py
 ⚖️ Disclaimer
 This tool is for educational and authorized security testing purposes only. Sniffing network traffic on networks you do not own or have explicit permission to test is illegal and unethical. Use responsibly.
-
-
----
-
-### 📦 Step 8: The `requirements.txt`
-This is a small file that lets other developers install everything you used with one command: `pip install -r requirements.txt`.
-
-Create a file named `requirements.txt` and paste this:
-```text
-scapy
-pandas
-streamlit
-plotly
